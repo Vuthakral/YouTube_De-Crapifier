@@ -15,3 +15,4 @@ Listed under GPL-3.0-only, feel free to take and adapt this to whatever web brow
 Known issues:
 
 - Timestamps get removed on generated shared URLs.
+- Some auto-mix-playlists are missed when the video is left-clicked. This seems specific to certain videos and I cannot find the correlation.
