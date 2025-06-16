@@ -1,0 +1,16 @@
+{
+	"manifest_version": 2,
+	"name": "YouTube De-Crapifier",
+	"version": "1.0",
+	"description": "Hides shorts and banners on the homepage, changes homepage back to six videos per row, removes tracker URLs, prevents automatic mixes, and more.",
+	"content_scripts": [
+		{
+			"matches": ["*://www.youtube.com/*"],
+			"js": ["content-script.js"],
+			"run_at": "document_idle"
+		}
+	],
+	"browser_action": {
+		"default_title": "YouTube De-Crapifier"
+	}
+}
