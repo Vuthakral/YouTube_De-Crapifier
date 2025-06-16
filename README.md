@@ -11,3 +11,7 @@ This is a Firefox extension that "de-crapifies" YouTube. It does the following:
 - Removes tracker URLs from embeds & from generated shared video links.
 
 Listed under GPL-3.0-only, feel free to take and adapt this to whatever web browser you use.
+
+Known issues:
+
+- Timestamps get removed on generated shared URLs.
