@@ -10,4 +10,4 @@ This is a Firefox extension that "de-crapifies" YouTube. It does the following:
 - Hides the "end screen" on videos (The video recommendation + large channel icon that often gets in the way of the video's ending)
 - Removes tracker URLs from embeds & from generated shared video links.
 
-Lited under GPL-3.0-only, feel free to take and adapt this to whatever web browser you use.
+Listed under GPL-3.0-only, feel free to take and adapt this to whatever web browser you use.
